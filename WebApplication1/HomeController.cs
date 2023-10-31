@@ -8,7 +8,7 @@ namespace WebApplication1
         // GET: HomeController
         public ActionResult Index()
         {
-            ViewData["Title"] = "This is Home Page";
+            ViewData["Title"] = "This is Home Page test";
             return View();
         }
 
